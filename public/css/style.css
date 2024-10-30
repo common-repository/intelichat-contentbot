@@ -1,0 +1,18 @@
+.intelichat_settings .error {
+	color: red;
+	font-size:0.7em;
+}
+.intelichat_settings .success {
+	color: blue;
+	font-size:0.7em;
+}
+
+.intelichat_settings fieldset {
+	margin-top: 16px;
+}
+.intelichat_settings legend {
+	color: #33A;
+}
+.intelichat_settings H1 {
+	color: #55A;
+}
